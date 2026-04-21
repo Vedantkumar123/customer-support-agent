@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Refund Policy",
+    "content": "Customers can request refunds within 7 days of delivery if the product is unused and in original packaging. For damaged or defective products, refunds are available within 30 days of delivery. Refund processing takes 5-7 business days after approval. Refunds will be credited to the original payment method."
+  },
+  {
+    "id": 2,
+    "title": "Return Policy",
+    "content": "Returns are accepted within 7 days of delivery for fashion items and 14 days for electronics. The product must be in original condition with all tags and packaging intact. Return shipping is free for our company if the return is due to our error. Customers are responsible for return shipping costs for change of mind returns. Once received, items are inspected within 2-3 business days."
+  },
+  {
+    "id": 3,
+    "title": "Delivery Policy",
+    "content": "Standard delivery takes 5-7 business days. Express delivery takes 2-3 business days. Orders are dispatched within 1 business day of confirmation. Delivery is available across India except in remote areas. Free delivery is available on orders above Rs. 500. Customers can track their orders real-time using the provided tracking ID."
+  },
+  {
+    "id": 4,
+    "title": "Delivery Delay Compensation",
+    "content": "If delivery is delayed beyond the promised date by 1-2 days, customers receive a 10% discount voucher on next purchase. If delivery is delayed by more than 2 days, customers receive a 20% discount voucher on next purchase or can request a full refund. Compensation is automatically credited within 5 business days of delayed delivery."
+  },
+  {
+    "id": 5,
+    "title": "Damaged Product Policy",
+    "content": "If a product arrives damaged or defective, customers must report it within 24 hours with photo evidence. A replacement will be sent within 3 business days at no additional cost. Alternatively, customers can request a full refund. Damaged products are not eligible for return shipping costs."
+  },
+  {
+    "id": 6,
+    "title": "Exchange Policy",
+    "content": "Products can be exchanged within 7 days of delivery for fashion items and 14 days for electronics. Exchanges are free if done within the return window. The new product must be of equal or higher value. If exchanging for a lower-value product, the difference will not be refunded. Exchange processing takes 2-3 business days."
+  },
+  {
+    "id": 7,
+    "title": "Cancellation Policy",
+    "content": "Orders can be cancelled before they are dispatched at no cost. Orders can be cancelled within 24 hours of placement with a full refund. After 24 hours or once dispatched, cancellations incur a 10% service fee. Refunds for cancellations are processed within 5-7 business days."
+  },
+  {
+    "id": 8,
+    "title": "Price Matching Policy",
+    "content": "We offer price matching within 7 days of purchase. If the price drops on our platform, customers can request a price adjustment for the difference. Price matching is available only on identical products. Bulk discounts and promotional prices are excluded from price matching."
+  },
+  {
+    "id": 9,
+    "title": "Discount and Voucher Policy",
+    "content": "Discount vouchers can be applied at checkout. Vouchers are valid for the specified period and cannot be extended. Multiple vouchers cannot be stacked unless explicitly mentioned. Vouchers are non-transferable and non-refundable. Expired vouchers cannot be redeemed."
+  },
+  {
+    "id": 10,
+    "title": "Customer Complaint Resolution",
+    "content": "Complaints should be reported within 7 days of the incident. Our customer service team will respond within 24 hours. For complex issues, resolution may take up to 10 business days. Customers can escalate complaints to our senior management if not satisfied with the resolution. All complaints are logged and reviewed for quality improvement."
+  }
+]
